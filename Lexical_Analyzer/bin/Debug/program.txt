@@ -1,0 +1,10 @@
+program lab1;
+var i11:float;
+c:integer;
+b:float [1..12];(************)
+begin 
+c:=10;
+i11 := b[5];
+loop i11:= b[4]; (*11111*11111***)
+endloop;
+end.

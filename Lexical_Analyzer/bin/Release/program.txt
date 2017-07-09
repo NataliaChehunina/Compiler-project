@@ -1,0 +1,13 @@
+program lab2;
+var 
+i11:float;
+c:integer;
+c:integer;
+begin 
+c := a;
+c:=10;
+loop 
+i11 := 14;
+c := i11[5];
+endloop;
+end. 

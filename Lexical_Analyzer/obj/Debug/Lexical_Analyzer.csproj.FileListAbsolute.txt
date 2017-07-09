@@ -1,0 +1,5 @@
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Lexical_Analyzer\Lexical_Analyzer\bin\Debug\Lexical_Analyzer.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Lexical_Analyzer\Lexical_Analyzer\bin\Debug\Lexical_Analyzer.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Lexical_Analyzer\Lexical_Analyzer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Lexical_Analyzer\Lexical_Analyzer\obj\Debug\Lexical_Analyzer.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Lexical_Analyzer\Lexical_Analyzer\obj\Debug\Lexical_Analyzer.pdb

@@ -1,0 +1,17 @@
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Lexical_Analyzer\Lexical_Analyzer\bin\Release\Lexical_Analyzer.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Lexical_Analyzer\Lexical_Analyzer\bin\Release\Lexical_Analyzer.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Lexical_Analyzer\Lexical_Analyzer\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Lexical_Analyzer\Lexical_Analyzer\obj\Release\Lexical_Analyzer.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Lexical_Analyzer\Lexical_Analyzer\obj\Release\Lexical_Analyzer.pdb
+C:\Users\Natalia\Documents\Visual Studio 2017\Projects\Lexical_Analyzer\Lexical_Analyzer\bin\Release\Lexical_Analyzer.exe.config
+C:\Users\Natalia\Documents\Visual Studio 2017\Projects\Lexical_Analyzer\Lexical_Analyzer\bin\Release\Lexical_Analyzer.exe
+C:\Users\Natalia\Documents\Visual Studio 2017\Projects\Lexical_Analyzer\Lexical_Analyzer\bin\Release\Lexical_Analyzer.pdb
+C:\Users\Natalia\Documents\Visual Studio 2017\Projects\Lexical_Analyzer\Lexical_Analyzer\obj\Release\Lexical_Analizer.csprojResolveAssemblyReference.cache
+C:\Users\Natalia\Documents\Visual Studio 2017\Projects\Lexical_Analyzer\Lexical_Analyzer\obj\Release\Lexical_Analyzer.exe
+C:\Users\Natalia\Documents\Visual Studio 2017\Projects\Lexical_Analyzer\Lexical_Analyzer\obj\Release\Lexical_Analyzer.pdb
+C:\Users\Natalia\Desktop\Lexical_Analyzer\Lexical_Analyzer\bin\Release\Lexical_Analyzer.exe.config
+C:\Users\Natalia\Desktop\Lexical_Analyzer\Lexical_Analyzer\bin\Release\Lexical_Analyzer.exe
+C:\Users\Natalia\Desktop\Lexical_Analyzer\Lexical_Analyzer\bin\Release\Lexical_Analyzer.pdb
+C:\Users\Natalia\Desktop\Lexical_Analyzer\Lexical_Analyzer\obj\Release\Lexical_Analizer.csprojResolveAssemblyReference.cache
+C:\Users\Natalia\Desktop\Lexical_Analyzer\Lexical_Analyzer\obj\Release\Lexical_Analyzer.exe
+C:\Users\Natalia\Desktop\Lexical_Analyzer\Lexical_Analyzer\obj\Release\Lexical_Analyzer.pdb

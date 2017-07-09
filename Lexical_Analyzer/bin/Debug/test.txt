@@ -1,0 +1,9 @@
+program pr5;
+var l:integer;
+begin
+loop i:=38;endloop;
+i:= 10;
+l:= 36;
+
+end.
+

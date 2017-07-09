@@ -1,0 +1,40 @@
+;Program LAB2
+.Data
+I11 dd ?
+C dw ?
+;Error, dublicate id: C
+.Code 
+ Start:
+Mov ecx,I11
+Mov esi,C
+
+Mov ebx,0
+Mov edx,ebx
+;Error! Undeclared variable: A
+Mov eax,0
+Mov eax,A[ebx]
+Mov C[edx], eax
+
+Mov ebx,0
+Mov edx,ebx
+Mov eax,10
+Mov C[edx], eax
+
+?L0:
+Mov ebx,0
+Mov edx,ebx
+Mov eax,14
+Mov I11[edx], eax
+
+Mov ebx,0
+Mov edx,ebx
+;Warning, variable is not an array: I11
+Mov eax,5
+Mov ebx,eax
+Sub ebx,0
+Mov eax,I11[ebx]
+Mov C[edx], eax
+
+Jmp ?L0
+
+End Start
